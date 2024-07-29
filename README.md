@@ -1,16 +1,17 @@
-# sneakers_shop
+# Sneaker Shop with Flutter
 
-A new Flutter project.
+A mobile app built with Flutter showcasing the following features:
+- Shop and Cart navigation pages
+- dynamic light and dark modes
+- Providers for Cart, Shop, Color Schemes and Nav Bar controls allowing multi-tiered data access and update
+- search logic for filtering data
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+See [Flutter docs](https://docs.flutter.dev/get-started/install) for Flutter installation guide if needed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get  // install dependencies
+flutter run      // run the app
+```
