@@ -12,6 +12,6 @@ A mobile app built with Flutter showcasing the following features:
 See [Flutter docs](https://docs.flutter.dev/get-started/install) for Flutter installation guide if needed.
 
 ```
-flutter pub get  // install dependencies
-flutter run      // run the app
+flutter pub get 
+flutter run 
 ```
